@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/philip-colborn/static/css/main.7733d2d4.css",
-    "main.js": "/philip-colborn/static/js/main.1cc43021.js",
-    "static/js/453.ed3810f9.chunk.js": "/philip-colborn/static/js/453.ed3810f9.chunk.js",
-    "static/media/Me.jpg": "/philip-colborn/static/media/Me.edf40cb9815538a34da6.jpg",
-    "static/media/ResumePic.jpg": "/philip-colborn/static/media/ResumePic.059284d4ee225a3180ae.jpg",
-    "static/media/C.png": "/philip-colborn/static/media/C.44fa74ebee2fba83a3ca.png",
-    "static/media/java-4-logo.png": "/philip-colborn/static/media/java-4-logo.fed7426e43c58bc46af6.png",
-    "static/media/gcloud.png": "/philip-colborn/static/media/gcloud.1e64719bebe7fc831603.png",
-    "static/media/git.png": "/philip-colborn/static/media/git.4432f0428363b4e194bf.png",
-    "static/media/docker.png": "/philip-colborn/static/media/docker.636d0d8b02074e53faaa.png",
-    "static/media/python.webp": "/philip-colborn/static/media/python.49f103bd61b64fc33e9a.webp",
-    "index.html": "/philip-colborn/index.html",
-    "main.7733d2d4.css.map": "/philip-colborn/static/css/main.7733d2d4.css.map",
-    "main.1cc43021.js.map": "/philip-colborn/static/js/main.1cc43021.js.map",
-    "453.ed3810f9.chunk.js.map": "/philip-colborn/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/PersonalWebsite/static/css/main.7733d2d4.css",
+    "main.js": "/PersonalWebsite/static/js/main.ce7b4b26.js",
+    "static/js/453.ed3810f9.chunk.js": "/PersonalWebsite/static/js/453.ed3810f9.chunk.js",
+    "static/media/Me.jpg": "/PersonalWebsite/static/media/Me.edf40cb9815538a34da6.jpg",
+    "static/media/ResumePic.jpg": "/PersonalWebsite/static/media/ResumePic.059284d4ee225a3180ae.jpg",
+    "static/media/C.png": "/PersonalWebsite/static/media/C.44fa74ebee2fba83a3ca.png",
+    "static/media/java-4-logo.png": "/PersonalWebsite/static/media/java-4-logo.fed7426e43c58bc46af6.png",
+    "static/media/gcloud.png": "/PersonalWebsite/static/media/gcloud.1e64719bebe7fc831603.png",
+    "static/media/git.png": "/PersonalWebsite/static/media/git.4432f0428363b4e194bf.png",
+    "static/media/docker.png": "/PersonalWebsite/static/media/docker.636d0d8b02074e53faaa.png",
+    "static/media/python.webp": "/PersonalWebsite/static/media/python.49f103bd61b64fc33e9a.webp",
+    "index.html": "/PersonalWebsite/index.html",
+    "main.7733d2d4.css.map": "/PersonalWebsite/static/css/main.7733d2d4.css.map",
+    "main.ce7b4b26.js.map": "/PersonalWebsite/static/js/main.ce7b4b26.js.map",
+    "453.ed3810f9.chunk.js.map": "/PersonalWebsite/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7733d2d4.css",
-    "static/js/main.1cc43021.js"
+    "static/js/main.ce7b4b26.js"
   ]
 }
